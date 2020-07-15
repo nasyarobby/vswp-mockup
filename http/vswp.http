@@ -1,0 +1,38 @@
+POST http://localhost:3001/pajak/vswp
+Content-Type: application/json
+
+{
+    "nik": "3275071705800028",
+    "tujuan": "Validasi"
+}
+
+###
+POST http://localhost:3001/pajak/vswp
+Content-Type: application/json
+
+{
+    "npwp": "660055013443000",
+    "tujuan": "Validasi"
+}
+
+###
+
+POST http://localhost:3001/pajak/vswp
+Content-Type: application/json
+
+{
+    "tujuan": "Validasi"
+}
+
+###
+
+POST http://localhost:3001/pajak/vswp
+Content-Type: application/json
+
+{
+    "npwp": "143468445721000"
+}
+
+###
+
+POST http://localhost:3001/pajak/vswp
